@@ -3,7 +3,7 @@
 
 </h1>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=agiatikazinat.agiatikazinat" />
+[comment]: <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=agiatikazinat.agiatikazinat" />
 
 
 - 👀 I’m interested in Robotics, Machine Learning, Deep Learning and Reinforcement Learning
