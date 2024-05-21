@@ -9,7 +9,7 @@
 - 👀 I’m interested in Robotics, Machine Learning, Deep Learning and Reinforcement Learning
 - 🌱 I’m currently learning Data Analysis, Data Visualization, Data Engineering and Data Science.
 - 💞️ I’m looking to collaborate on any project related to robotics and deep learning
-- 📫 You can reach me at whalewhaleking@gmail.com
+- 📫 You can reach me at hieunguyen6112000@gmail.com
 - 😄 Pronouns: He/Him/His
 
 [![agiatikazinat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agiatikazinat&theme=react-dark&custom_title=Agiat%20Ikazinat%20Contribution)](https://github.com/agiatikazinat/github-readme-activity-graph)
