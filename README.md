@@ -1,5 +1,5 @@
 <h1 align='center'> 
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=こんにちは;+Hola;+Xin+Chào👋;+あぎあっとです;+I'm+Agiat+Ikazinat!;" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=こんにちは;+Hola;+Xin+Chào👋;+あぎあっとです;+I'm+Hieu-Nguyen!;" />
 
 </h1>
 
@@ -12,7 +12,7 @@
 - 📫 You can reach me at hieunguyen6112000@gmail.com
 - 😄 Pronouns: He/Him/His
 
-[![agiatikazinat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agiatikazinat&theme=react-dark&custom_title=Agiat%20Ikazinat%20Contribution)](https://github.com/agiatikazinat/github-readme-activity-graph)
+[![agiatikazinat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agiatikazinat&theme=react-dark&custom_title=Hieu%20Nguyen%20Contribution)](https://github.com/agiatikazinat/github-readme-activity-graph)
 
 [comment]: <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=agiatikazinat&layout=compact"/>
 
