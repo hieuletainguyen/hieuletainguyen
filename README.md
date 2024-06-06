@@ -14,7 +14,7 @@
 
 [![agiatikazinat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hieuletainguyen&theme=react-dark&custom_title=Hieu%20Nguyen%20Contribution)](https://github.com/agiatikazinat/github-readme-activity-graph)
 
-[comment]: <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=agiatikazinat&layout=compact"/>
+[comment]: <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieuletainguyen&layout=compact"/>
 
 
 ## Stats
