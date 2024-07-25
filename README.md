@@ -21,9 +21,13 @@
 <div align='center'>
   <img width=390 src="https://streak-stats.demolab.com/?user=hieuletainguyen&theme=dark"/>
 
-  
+  <br />
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuletainguyen&layout=pie&theme=dark)](https://github.com/hieuletainguyen/github-readme-stats)
 
 </div>
+
+
 <!---
 agiatikazinat/agiatikazinat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
