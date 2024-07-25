@@ -7,7 +7,7 @@
 
 
 - 👀 I’m interested in Robotics, Machine Learning, Deep Learning and Reinforcement Learning
-- 🌱 I’m currently learning Data Analysis, Data Visualization, Data Engineering and Data Science.
+- 🌱 I’m currently learning Full Stack.
 - 💞️ I’m looking to collaborate on any project related to robotics and deep learning
 - 📫 You can reach me at hieunguyen6112000@gmail.com
 - 😄 Pronouns: He/Him/His
