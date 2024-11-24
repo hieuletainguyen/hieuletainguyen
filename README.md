@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 - 👀 I’m interested in Robotics, Machine Learning, Deep Learning and Reinforcement Learning
-- 🌱 I’m currently learning Full Stack.
+- 🌱 I’m currently working as a Backend Developer.
 - 💞️ I’m looking to collaborate on any project related to robotics and deep learning
 - 📫 You can reach me at hieunguyen6112000@gmail.com
 - 😄 Pronouns: He/Him/His
